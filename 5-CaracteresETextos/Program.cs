@@ -15,6 +15,16 @@ class Programa
 		letra = (char)(65 + 1);
         Console.WriteLine(letra);
 
+		string primeirafrase = "Aula da alura 2022";
+		Console.WriteLine(primeirafrase);
+
+		string cursos = @"Cursos disponíveis: 
+- Go 
+- C# 
+-Python 
+-Java";
+		Console.WriteLine(cursos);
+
         Console.WriteLine("Tecle enter para fechar");
 		Console.ReadLine();
 	}
