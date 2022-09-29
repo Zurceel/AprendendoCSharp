@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Perfil 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\aulaalura\\AprendendoCSharp\\AprendendoCSharp.sln"
+    }
+  }
+}
