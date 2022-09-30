@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - CriandoVariaveisPontoFl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesOutrosTipos", "4-ConversoesOutrosTipos\4-ConversoesOutrosTipos.csproj", "{54D9CF20-F899-476E-BF98-2AA846E92623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{F60B6BFA-BDA8-4C00-A7E5-6DE09F33533B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{F60B6BFA-BDA8-4C00-A7E5-6DE09F33533B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "texte", "texte\texte.csproj", "{588BA931-85E7-423A-9CC5-72C40CE49663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 - AtribuicoesDeVariaveis", "texte\6 - AtribuicoesDeVariaveis.csproj", "{588BA931-85E7-423A-9CC5-72C40CE49663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
