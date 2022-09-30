@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 - AtribuicoesDeVariaveis", "texte\6 - AtribuicoesDeVariaveis.csproj", "{588BA931-85E7-423A-9CC5-72C40CE49663}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - Condicionais", "7 - Condicionais\7 - Condicionais.csproj", "{80302049-2356-4071-9DFE-43AE6D66CFA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{588BA931-85E7-423A-9CC5-72C40CE49663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{588BA931-85E7-423A-9CC5-72C40CE49663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{588BA931-85E7-423A-9CC5-72C40CE49663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80302049-2356-4071-9DFE-43AE6D66CFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80302049-2356-4071-9DFE-43AE6D66CFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80302049-2356-4071-9DFE-43AE6D66CFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80302049-2356-4071-9DFE-43AE6D66CFA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
