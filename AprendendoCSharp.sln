@@ -15,15 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 - AtribuicoesDeVariaveis", "texte\6 - AtribuicoesDeVariaveis.csproj", "{588BA931-85E7-423A-9CC5-72C40CE49663}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7 - Condicionais", "7 - Condicionais\7 - Condicionais.csproj", "{80302049-2356-4071-9DFE-43AE6D66CFA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7 - Condicionais", "7 - Condicionais\7 - Condicionais.csproj", "{80302049-2356-4071-9DFE-43AE6D66CFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{B92809A1-0401-44E9-9A78-BB024C212C1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{B92809A1-0401-44E9-9A78-BB024C212C1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{52B2C4B8-3760-47BC-8FF4-49676D93FFBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{52B2C4B8-3760-47BC-8FF4-49676D93FFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioDaAula", "DesafioDaAula\DesafioDaAula.csproj", "{5472C48A-FDD3-4EC1-AF7E-BAE93BE96399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioDaAula", "DesafioDaAula\DesafioDaAula.csproj", "{5472C48A-FDD3-4EC1-AF7E-BAE93BE96399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10-CalculaPoupanca", "10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{63E8BE38-76B9-4B2D-B908-249A5F7793C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10-CalculaPoupanca", "10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{63E8BE38-76B9-4B2D-B908-249A5F7793C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P11-CalculaPoupanca2", "P11-CalculaPoupanca2\P11-CalculaPoupanca2.csproj", "{63F1D44E-D8EF-4B03-9B25-1599A87AB33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12 - InvestimentoLongoPrazo", "P12 - InvestimentoLongoPrazo\P12 - InvestimentoLongoPrazo.csproj", "{BA16AB05-F172-4874-A7B9-242E6644A7A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{63E8BE38-76B9-4B2D-B908-249A5F7793C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63E8BE38-76B9-4B2D-B908-249A5F7793C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63E8BE38-76B9-4B2D-B908-249A5F7793C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F1D44E-D8EF-4B03-9B25-1599A87AB33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F1D44E-D8EF-4B03-9B25-1599A87AB33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F1D44E-D8EF-4B03-9B25-1599A87AB33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F1D44E-D8EF-4B03-9B25-1599A87AB33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA16AB05-F172-4874-A7B9-242E6644A7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA16AB05-F172-4874-A7B9-242E6644A7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA16AB05-F172-4874-A7B9-242E6644A7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA16AB05-F172-4874-A7B9-242E6644A7A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
